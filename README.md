@@ -1,4 +1,4 @@
-# novo-catálago
+# novo catalago
 camisetas de altíssima qualidade é preço justo, venha fazer parte dessa marca de sucesso
 [index.html](https://github.com/user-attachments/files/22100553/index.html)
 <!DOCTYPE html>
